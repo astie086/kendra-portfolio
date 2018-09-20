@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/astie086/kendra-portfolio#readme",
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.3.1",
     "bootstrap": "^4.1.3"
   }
 }
