@@ -13,6 +13,19 @@
 
 }
 
+.nav-item {
+  padding-right: 30px;
+}
+
+.words{
+  background-color:gray;
+  font-family: 'Spirax', cursive;
+  font-size: 18px;
+}
+
+.bio{
+  padding-top: 20px;
+}
 
 
 
