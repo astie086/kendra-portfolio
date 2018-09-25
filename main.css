@@ -5,29 +5,59 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 
+ body {
+  background-color:red !important;
+     }
+     
 .banner {
   padding-top: 30px;
   text-align: right;
   font-family: 'Spirax', cursive;
   font-size: 60px;
-
+  color: white;
 }
 
 .nav-item {
-  padding-right: 30px;
+  padding-right: 50px;
 }
 
 .words{
-  background-color:gray;
-  font-family: 'Spirax', cursive;
+  background-color: #282828;
+  font-family: 'Poppins', sans-serif;
+font-family: 'Spirax', cursive;
+font-family: 'Playfair Display SC', serif;
   font-size: 18px;
+  color: white;
+
 }
 
 .bio{
-  padding-top: 20px;
+  padding-top: 10px;
 }
 
+.topbreak hr {
+  width: 60%;
+  margin-right: 0%;
+  margin-left: 40%;
+  padding-bottom: 0%;
+  height: 0px;
+  color:white;
+  border-color: white;
+}
 
+.bottombreak hr {
+  color: white;
+  border-color: white;
+}
+
+.navbar {
+  height: 10px;
+}
+
+.card {
+  margin-top: 200px;
+  border: dotted; 
+}
 
 
  /*! ---------------------------------------------------------- */
