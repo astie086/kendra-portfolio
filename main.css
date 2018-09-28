@@ -21,6 +21,11 @@
   padding-right: 50px;
 }
 
+.card-img-top{
+  padding-top: 50px;
+}
+
+
 .words{
   background-color: #282828;
   font-family: 'Poppins', sans-serif;
