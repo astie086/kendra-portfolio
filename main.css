@@ -6,7 +6,7 @@
  */
 
  body {
-  background-color:red !important;
+  background-color:black !important;
      }
      
 .banner {
@@ -31,6 +31,8 @@
 font-family: 'Playfair Display SC', serif;
   font-size: 18px;
   color: white;
+  text-align: center;
+  margin-top: 20px;
 
 }
 
