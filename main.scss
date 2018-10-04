@@ -1,2 +1,6 @@
-@import "node_modules/bootstrap/scss/bootstrap";
+$theme-colors: (
+  "primary": teal,
+  "danger": #ff4136
+);
+
 @import "node_modules/bootstrap/scss/bootstrap";
