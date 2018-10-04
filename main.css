@@ -5,6 +5,10 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 
+.img-thumbnail {
+  width: 20%;
+ }
+
  body {
   background-color:black !important;
      }
@@ -23,7 +27,10 @@
 
 .card-img-top{
   padding-top: 50px;
+  text-align: center;
 }
+
+card-img-top
 
 
 .words{
@@ -75,6 +82,20 @@ font-family: 'Playfair Display SC', serif;
 
 }
 
+
+.hide-bullets {
+  list-style:none;
+  margin-left: -40px;
+  margin-top:20px;
+}
+
+.thumbnail {
+  padding: 0;
+}
+
+.carousel-inner>.item>img, .carousel-inner>.item>a>img {
+  width: 100%;
+}
  /*! ---------------------------------------------------------- */
 :root {
   --blue: #007bff;
