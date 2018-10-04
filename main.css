@@ -75,6 +75,10 @@ font-family: 'Playfair Display SC', serif;
   
 }
 
+#cards {
+letter-spacing: 100px;
+}
+
 .aboutme {
   height: 200px;
 }
