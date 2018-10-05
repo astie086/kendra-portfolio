@@ -18,11 +18,11 @@
      }
      
 .banner {
-  padding-top: 30px;
-  text-align: right;
+  padding-top: 20px;
   font-family: 'Playfair Display SC', serif;
-  font-size: 60px;
+  font-size: 40px;
   color: white;
+
 }
 
 .nav-item {
@@ -43,11 +43,11 @@ font-family: 'Playfair Display SC', serif;
   color: white;
   text-align: center;
   margin-top: 20px;
-
 }
 
 .bio{
   padding-top: 10px;
+
 }
 
 .topbreak hr {
@@ -81,7 +81,7 @@ font-family: 'Playfair Display SC', serif;
 
 .abouttext{
   word-wrap: break-word;
-  font-size: 13.5px;
+  font-size: 17px;
   font-family: 'Playfair Display SC', serif;
   color: white;
   background-color: #282828;
@@ -105,6 +105,10 @@ font-family: 'Playfair Display SC', serif;
 
 .thumbnail {
   padding: 0;
+}
+
+#navbarNav{
+  color: white;
 }
 
 .carousel-inner>.item>img, .carousel-inner>.item>a>img {
