@@ -29,6 +29,14 @@
   padding-right: 50px;
 }
 
+.navbar {
+  height: 10px;
+}
+
+#navbarNav{
+  color: white;
+}
+
 .card-img-top{
   padding-top: 50px;
   text-align: center;
@@ -38,7 +46,7 @@
 
 .words{
   background-color: #282828;
-font-family: 'Playfair Display SC', serif;
+  font-family: 'Playfair Display SC', serif;
   font-size: 15px;
   color: white;
   text-align: center;
@@ -65,9 +73,7 @@ font-family: 'Playfair Display SC', serif;
   border-color: white;
 }
 
-.navbar {
-  height: 10px;
-}
+
 
 .card {
   margin-top: 200px;
@@ -97,6 +103,7 @@ font-family: 'Playfair Display SC', serif;
 }
 
 
+
 .hide-bullets {
   list-style:none;
   margin-left: -40px;
@@ -107,9 +114,6 @@ font-family: 'Playfair Display SC', serif;
   padding: 0;
 }
 
-#navbarNav{
-  color: white;
-}
 
 .carousel-inner>.item>img, .carousel-inner>.item>a>img {
   width: 100%;
